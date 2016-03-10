@@ -1,0 +1,23 @@
+{
+	"TARGA": 
+	{
+		"host": "192.168.1.57",
+		"port": "9990"
+	},
+	
+	"controllers":
+	{
+		
+		"gamepads": 
+		[
+			{
+				"name": "N64USB",
+				"vendor_id": "121",
+				"product_id": "6",
+				"serial_number":"None"
+			}
+		],
+
+		"usb_general":""
+	}
+}

@@ -1,0 +1,1392 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"nozzle",
+				"nozzle-meter-hack"
+			],
+			[
+				"map",
+				"mapped_y"
+			],
+			[
+				"ma",
+				"mapped_x"
+			],
+			[
+				"mapped",
+				"mapped_x"
+			],
+			[
+				"prep",
+				"prep_x"
+			],
+			[
+				"distance",
+				"distanceToCenter"
+			],
+			[
+				"CM",
+				"CMX-hack"
+			],
+			[
+				"deg",
+				"deg_high"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"button",
+				"buttonId"
+			],
+			[
+				"canvas",
+				"canvasSize"
+			],
+			[
+				"can",
+				"canvasSize"
+			],
+			[
+				"calc",
+				"calculateAnalog"
+			],
+			[
+				"pre",
+				"prep_x"
+			],
+			[
+				"mappe",
+				"mapped_y"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"tou",
+				"touchId"
+			],
+			[
+				"sti",
+				"stickId"
+			],
+			[
+				"draw",
+				"drawCanvas"
+			],
+			[
+				"init",
+				"initEvents"
+			],
+			[
+				"dra",
+				"drawRotated"
+			],
+			[
+				"canva",
+				"canvasId"
+			],
+			[
+				"on",
+				"onTouchEnd"
+			],
+			[
+				"ms",
+				"msg_long"
+			],
+			[
+				"goo",
+				"good_icon"
+			],
+			[
+				"bad",
+				"bad_icon"
+			],
+			[
+				"ceter",
+				"centerRad"
+			],
+			[
+				"center",
+				"centerRad"
+			],
+			[
+				"label",
+				"labelObj"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"lg",
+				"log"
+			],
+			[
+				"set",
+				"setValue"
+			],
+			[
+				"write",
+				"writeFLine"
+			],
+			[
+				"F",
+				"Fline"
+			],
+			[
+				"cnter",
+				"centerPoint"
+			],
+			[
+				"gauge",
+				"gaugeCenterPoint"
+			],
+			[
+				"lower",
+				"lower_angle_bound"
+			],
+			[
+				"upper",
+				"upper_angle_bound"
+			],
+			[
+				"lo",
+				"lower_angle_bound"
+			],
+			[
+				"upp",
+				"upper_angle_bound"
+			],
+			[
+				"inter",
+				"intersect"
+			],
+			[
+				"end",
+				"endPoint"
+			],
+			[
+				"start",
+				"startPoint"
+			],
+			[
+				"star",
+				"startPoint"
+			],
+			[
+				"bg",
+				"bg	background: #${1:000};"
+			],
+			[
+				"cannon",
+				"cannonSphere"
+			],
+			[
+				"class",
+				"classAttr"
+			],
+			[
+				"turret",
+				"turret-right"
+			],
+			[
+				"xrad",
+				"xradius"
+			],
+			[
+				"xra",
+				"xradius"
+			],
+			[
+				"delta",
+				"deltax"
+			],
+			[
+				"wrte",
+				"writeBases"
+			],
+			[
+				"y",
+				"ybase"
+			],
+			[
+				"cannons",
+				"cannonPosition"
+			],
+			[
+				"Cann",
+				"CanonSphere"
+			],
+			[
+				"wri",
+				"writeDattr"
+			],
+			[
+				"Can",
+				"CanonSphere	(riot-web.js)"
+			],
+			[
+				"Po",
+				"Point3D"
+			],
+			[
+				"parse",
+				"parseFloat"
+			],
+			[
+				"foam",
+				"foamGauge"
+			],
+			[
+				"gag",
+				"gaugePosition"
+			],
+			[
+				"cent",
+				"centerPoint"
+			],
+			[
+				"gau",
+				"gaugePosition"
+			],
+			[
+				"low",
+				"lower_bound"
+			],
+			[
+				"en",
+				"endY"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"pa",
+				"parseD"
+			],
+			[
+				"bac",
+				"backgroundPath"
+			],
+			[
+				"open",
+				"open_sansregular"
+			],
+			[
+				"j",
+				"javascript	(home.php)"
+			],
+			[
+				"g",
+				"genererar"
+			],
+			[
+				"e",
+				"eller"
+			],
+			[
+				"form",
+				"formmessage"
+			],
+			[
+				"send",
+				"sendContactForm"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"year",
+				"yearNow"
+			],
+			[
+				"Pay",
+				"PayDate"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"file",
+				"fileA"
+			],
+			[
+				"slu",
+				"slut_tid	(IKSUbot.py)"
+			],
+			[
+				"IKSU",
+				"IKSUbot	(IKSUbot.py)"
+			],
+			[
+				"conf",
+				"confirmSignIn"
+			],
+			[
+				"clas",
+				"class_id"
+			],
+			[
+				"User",
+				"UserSubscription"
+			],
+			[
+				"str",
+				"strftime"
+			],
+			[
+				"email",
+				"email_list"
+			],
+			[
+				"book",
+				"bookClass"
+			],
+			[
+				"subscriptio",
+				"subscription"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"inp",
+				"inp_tid"
+			],
+			[
+				"instr",
+				"instruktor	(IKSUbot.py)"
+			],
+			[
+				"sub",
+				"subscription"
+			],
+			[
+				"intr",
+				"instruktor"
+			],
+			[
+				"Subscrit",
+				"Subscriptions"
+			],
+			[
+				"sess",
+				"session"
+			],
+			[
+				"boo",
+				"bookClass	(ProgramModules.py)"
+			],
+			[
+				"session",
+				"session_cookie"
+			],
+			[
+				"Inte",
+				"IntegerField	(peewee.py)"
+			],
+			[
+				"in",
+				"instruktor	(Models.py)"
+			],
+			[
+				"create",
+				"createTables"
+			],
+			[
+				"creat",
+				"create_table"
+			],
+			[
+				"Cha",
+				"CharField"
+			],
+			[
+				"menu",
+				"menuChoice"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ring",
+				"ringOss	(tp15.js)"
+			],
+			[
+				"admini",
+				"administratorer	(front-page.php)"
+			],
+			[
+				"navbar",
+				"navbar-mobile-visible"
+			],
+			[
+				"admin",
+				"administratorer"
+			],
+			[
+				"echo",
+				"echo_return"
+			],
+			[
+				"fix",
+				"fixOnScroll	(tp15.js)"
+			],
+			[
+				"secon",
+				"secondMenu"
+			],
+			[
+				"auti",
+				"autoFill	(tp15.js)"
+			],
+			[
+				"auto",
+				"autoFill	(tp15.js)"
+			],
+			[
+				"disla",
+				"display"
+			],
+			[
+				"transition",
+				"transition_delay	(functions.scss)"
+			],
+			[
+				"hide",
+				"hidden"
+			],
+			[
+				"json",
+				"jsonArr"
+			],
+			[
+				"mailto",
+				"mailto:support@tempusinfo"
+			],
+			[
+				"fill",
+				"fillMap"
+			],
+			[
+				"refere",
+				"referens_map	(tp15.js)"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"amin",
+				"administratorer	(front-page.php)"
+			],
+			[
+				"white",
+				"whitebox"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/albin/Development/EdwAns/Unifire/PyTARGA/pytarga.py",
+			"settings":
+			{
+				"buffer_size": 119,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 241.0,
+		"last_filter": "set html",
+		"selected_items":
+		[
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"set json",
+				"Set Syntax: JSON"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"set pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"convert tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"set sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"set ",
+				"Set Syntax: LESS"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"set c",
+				"Set Syntax: C"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"conve",
+				"Convert Case: Upper Case"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"set ard",
+				"Set Syntax: Arduino"
+			],
+			[
+				"indent tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"set pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"mini",
+				"Minify Javascript to file"
+			],
+			[
+				"min",
+				"Minify Javascript to file"
+			],
+			[
+				"mni",
+				"Minify Javascript to file"
+			],
+			[
+				"miini",
+				"Minify Javascript"
+			],
+			[
+				"newf ie",
+				"File: New File Relative to Current View"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"redin",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"set bla",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"set blade",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"set",
+				"Set Syntax: LESS"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 350.0,
+		"history":
+		[
+			"view.insert(none, 0, \"Hello, World!\")",
+			"view.insert(null, 0, \"Hello, World!\")",
+			"view.insert(edit, 0, \"Hello, World!\")",
+			"print 'hej'",
+			"print ''+snus ",
+			"print ''+snus",
+			"print snus;",
+			"print snus",
+			"snus = kalleballe*2",
+			"kalleballe = 12",
+			"view.run_command(\"hello world\")",
+			"view.run_command(\"example\")",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/albin/Development/EdwAns/Unifire/PyTARGA",
+		"/Users/albin/Development/EdwAns/Unifire/PyTARGA/_sublime-project"
+	],
+	"file_history":
+	[
+		"/Users/albin/Development/EdwAns/Unifire/PyTARGA/Sublime-Project/PyTarga.sublime-project",
+		"/Users/albin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/albin/Dropbox/Arbete/Sjölivet/websida/wordpress/wp-content/themes/ocean_v1_AlbinHubsch/style/sass/foundation.scss",
+		"/Users/albin/Dropbox/Arbete/Tempus/Tempus Website/wp-build/wp-content/themes/tp15/index.php",
+		"/Users/albin/Dropbox/Arbete/Sjölivet/websida/wordpress/wp-content/themes/ocean_v1_AlbinHubsch/enkel-sida.php",
+		"/Users/albin/Dropbox/Arbete/Sjölivet/websida/wordpress/wp-content/themes/ocean_v1_AlbinHubsch/alla-avsnitt.php",
+		"/Users/albin/Dropbox/Arbete/Sjölivet/websida/wordpress/wp-content/themes/twentysixteen/index.php",
+		"/Users/albin/Dropbox/Arbete/Sjölivet/websida/wordpress/wp-content/themes/ocean_v1_AlbinHubsch/test.php",
+		"/Users/albin/Dropbox/Arbete/Sjölivet/websida/wordpress/wp-content/themes/twentysixteen/single.php",
+		"/Users/albin/Dropbox/Arbete/Sjölivet/websida/wordpress/wp-content/themes/ocean_v1_AlbinHubsch/readme.txt",
+		"/Users/albin/Dropbox/Arbete/Sjölivet/websida/wordpress/wp-content/themes/ocean_v1_AlbinHubsch/style/sass/reset.scss",
+		"/Users/albin/Dropbox/Arbete/Sjölivet/websida/wordpress/wp-content/themes/ocean_v1_AlbinHubsch/style/css/base.css",
+		"/Users/albin/Dropbox/Arbete/Sjölivet/websida/wordpress/wp-content/themes/ocean_v1_AlbinHubsch/style/essential-f6/css/foundation.min.css",
+		"/Users/albin/Dropbox/Arbete/Sjölivet/websida/wordpress/wp-content/themes/ocean_v1_AlbinHubsch/style/css",
+		"/Users/albin/Dropbox/Arbete/Sjölivet/websida/wordpress/wp-content/themes/ocean_v1_AlbinHubsch/style.css",
+		"/Users/albin/Dropbox/Arbete/Sjölivet/websida/wordpress/wp-content/themes/twentysixteen/inc/template-tags.php",
+		"/Users/albin/Dropbox/Arbete/Sjölivet/websida/wordpress/wp-content/themes/twentyfifteen/header.php",
+		"/Users/albin/Dropbox/Arbete/Sjölivet/websida/wordpress/wp-content/themes/twentysixteen/header.php",
+		"/Users/albin/Dropbox/Arbete/Sjölivet/websida/wordpress/wp-content/themes/twentysixteen/rtl.css",
+		"/Users/albin/Dropbox/Arbete/Sjölivet/websida/wordpress/wp-content/themes/twentysixteen/footer.php",
+		"/Users/albin/Dropbox/Arbete/Sjölivet/websida/wordpress/wp-content/themes/twentysixteen/style.css",
+		"/Users/albin/Dropbox/Arbete/Tempus/Tempus Website/wp-build/wp-content/themes/tp15/style.css",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Greip Merge/www/js/dev/jquery.nouislider.js",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Greip Merge/www/js/dev/jquery.targa.systemprofile.js",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Greip Merge/www/templates/template/README",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Greip Merge/www/README",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Riot Web Merge/www/templates/riot_car/template.content",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Greip Merge/www/templates/Greip/js/greip.base.js",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Greip Merge/www/js/dev/system.functions.js",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Greip Merge/www/js/jquery.targa.dynobject.min.js",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Greip Merge/www/js/dev/jquery.targa.dynobject.js",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Greip Merge/www/js/dev/jquery.targa.websocket.js",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Greip Merge/www/templates/Greip/template.bootstrap.php",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Greip Merge/www/templates/sthlm/css/04.menu.css",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Greip Merge/www/templates/sthlm/css/03.application.css",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Greip Merge/www/templates/sthlm/css/05.template_style.css",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Riot Web Merge/www/templates/riot_car/style/css/main.css",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Greip/style/css/greip.base.css",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Greip Merge/www/templates/template/template.content",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Riot Web/index.html",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Greip/js/dev/easing.js",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Riot Web/js/dev/riot-web.js",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Greip/style/sass/open-sans.include.scss",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Greip/style/sass/flexbox.scss",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Greip/style/sass/flexboxgrid.scss.css",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Greip/js/prod/jquery.js",
+		"/private/etc/hosts",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Riot Web Merge/www/templates/riot_mobile/style/sass/foundation.scss",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Riot Web Merge/www/templates/riot_mobile/foundation-icons/foundation-icons.css",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Riot Web Merge/www/templates/riot_mobile/style/sass/flexbox.scss",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/FrontendUIEngine/templates/targademo/template.content",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Riot Web/style/sass/reset.scss",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Riot Web/font/open-sans/web-fonts/opensans_regular_macroman/stylesheet.css",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/Riot Web/font/open-sans/How_to_use_webfonts.html",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/FrontendUIEngine/js/dev/system.functions.js",
+		"/Users/albin/Dropbox/Arbete/Unifire AB/FrontendUIEngine/doc/websocket.readme.md",
+		"/Users/albin/Downloads/index.php",
+		"/private/var/folders/bz/j7l6xm5s12jd4jsf5f6m6y740000gn/T/72a0f774-1fe2-488a-9c52-7caf63241e64/mottagning.interaktion.nu/public_html/index.php",
+		"/private/var/folders/bz/j7l6xm5s12jd4jsf5f6m6y740000gn/T/72a0f774-1fe2-488a-9c52-7caf63241e64/mottagning.interaktion.nu/public_html/.htaccess",
+		"/private/var/folders/bz/j7l6xm5s12jd4jsf5f6m6y740000gn/T/72a0f774-1fe2-488a-9c52-7caf63241e64/idag.interaktion.nu/public_html/index.php",
+		"/private/var/folders/bz/j7l6xm5s12jd4jsf5f6m6y740000gn/T/72a0f774-1fe2-488a-9c52-7caf63241e64/idag.interaktion.nu/public_html/.htaccess",
+		"/private/var/folders/bz/j7l6xm5s12jd4jsf5f6m6y740000gn/T/72a0f774-1fe2-488a-9c52-7caf63241e64/kurser.interaktion.nu/public_html/index.php",
+		"/private/var/folders/bz/j7l6xm5s12jd4jsf5f6m6y740000gn/T/72a0f774-1fe2-488a-9c52-7caf63241e64/kurser.interaktion.nu/public_html/.htaccess",
+		"/private/var/folders/bz/j7l6xm5s12jd4jsf5f6m6y740000gn/T/72a0f774-1fe2-488a-9c52-7caf63241e64/dev.interaktion.nu/public_html/index.html",
+		"/private/var/folders/bz/j7l6xm5s12jd4jsf5f6m6y740000gn/T/2efc32a0-aa23-4beb-8c18-aacc96055e07/interaktion.nu/public_html/.htaccess",
+		"/private/var/folders/bz/j7l6xm5s12jd4jsf5f6m6y740000gn/T/2efc32a0-aa23-4beb-8c18-aacc96055e07/interaktion.nu/public_html/css/base.css",
+		"/private/var/folders/bz/j7l6xm5s12jd4jsf5f6m6y740000gn/T/69419314-8f17-48c3-a052-faae455a3295/interaktion.nu/public_html/css/base.css",
+		"/private/var/folders/bz/j7l6xm5s12jd4jsf5f6m6y740000gn/T/69419314-8f17-48c3-a052-faae455a3295/interaktion.nu/public_html/.htaccess",
+		"/private/var/folders/bz/j7l6xm5s12jd4jsf5f6m6y740000gn/T/69419314-8f17-48c3-a052-faae455a3295/interaktion.nu/public_html/index.php",
+		"/Users/albin/Development/CSNvaka.nu/www/bootstrap/app.php",
+		"/Users/albin/Development/CSNvaka.nu/www/.env",
+		"/Users/albin/Development/CSNvaka.nu/www/resources/views/admin-cp-add.blade.php",
+		"/Users/albin/Development/CSNvaka.nu/www/public_html/css/style.less",
+		"/Users/albin/Development/CSNvaka.nu/www/resources/views/admin-cp.blade.php",
+		"/Users/albin/Development/CSNvaka.nu/albin/.env",
+		"/Users/albin/Development/CSNvaka.nu/albin/database/migrations/2015_11_23_170018_create_admusers_table.php",
+		"/Users/albin/Development/CSNvaka.nu/albin/public/js/main.js",
+		"/Users/albin/Development/CSNvaka.nu/albin/bootstrap/app.php",
+		"/Users/albin/Development/StudentConference/data-parser.py",
+		"/Users/albin/Development/StudentConference/Testresultat/andreas91-hc-data.txt",
+		"/Users/albin/Development/StudentConference/Outline.tex",
+		"/Users/albin/Development/StudentConference/StudentConference.sublime-project",
+		"/Users/albin/Google Drive/Universitetsstudier/Student Conference/LatexTemplates/demo.tex",
+		"/Users/albin/Development/IKSUbot/IKSUbot-booker.py",
+		"/Users/albin/Development/IKSUbot/README.md",
+		"/Users/albin/Development/IKSUbot/peewee.py",
+		"/Users/albin/Development/IKSUbot/email.html",
+		"/Users/albin/Development/IKSUbot/smtp.auth",
+		"/Users/albin/Dropbox/Arbete/Tempus/Tempus Website/wp-build/wp-content/themes/tp15/header.php",
+		"/Users/albin/Dropbox/Arbete/Tempus/Tempus Website/wp-build/wp-content/themes/tp15/kontakt-support.php",
+		"/Users/albin/Dropbox/Projekt/IKSUbot/IKSUbot.py",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/wp-content/themes/tp15/administratorer.php",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/api/index.php",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/wp-content/themes/tp15/html_inc/call_me.php",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/wp-content/themes/tp15/login.php",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/wp-content/themes/tp15/js/jquery.cookie.js",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/wp-content/themes/tp15/footer.php",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/wp-content/themes/tp15/header.php",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/wp-content/themes/tp15/html_inc/second_menu.php",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/wp-content/themes/tp15/style/main.scss",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/wp-content/themes/tp15/images/entypo/lock-open.svg",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/wp-content/themes/tp15/style/params.scss",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/wp-content/themes/tp15/style/params.css",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/wp-content/themes/tp15/js/tp15.js",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/wp-content/themes/tp15/kontakt-support.php",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/wp-content/themes/tp15/vardnadshavare.php",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/wp-content/themes/tp15/verksamhet.php",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/wp-content/themes/tp15/administratörer.php",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/wp-content/themes/tp15/index.php",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/wp-content/themes/tp15/func/tmp-func.php",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/wp-content/themes/tp15/nyheter.php",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/wp-content/themes/tp15/style.css",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/wp-content/themes/tp15/style/index.php",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/wp-content/themes/tp15/css/style.scss",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/wp-content/themes/twentyfifteen/style.css",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/wp-content/themes/twentyfifteen/rtl.css",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/wp-content/themes/tp15/readme.txt",
+		"/Users/albin/Dropbox/arbete/tempus/Tempus Website/wp-build/wp-content/themes/tp15/style/style.css",
+		"/Users/albin/Development/InteraktionDesign_courses/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Empty_.php",
+		"/Users/albin/Dropbox/Backup/2014-02-18/MAMP/kristall/vendor/doctrine/common/tests/Doctrine/Tests/Common/Proxy/SleepClass.php",
+		"/Users/albin/Dropbox/Backup/MAMP 2014-02-18/kristall/vendor/doctrine/common/tests/Doctrine/Tests/Common/Proxy/SleepClass.php",
+		"/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/Headers/vDSP_translate.h",
+		"/Users/albin/Development/Digital-Vision-Project/Python-Engine/BroadcastEnvironment.py",
+		"/Users/albin/Documents/index.html",
+		"/Users/albin/Development/Digital-Vision-Project/Python-Engine/main.py",
+		"/Users/albin/Development/InteraktionDesign_courses/resources/views/app.blade.php",
+		"/Users/albin/Development/InteraktionDesign_courses/public/css/overlay/coursesOverview.less",
+		"/Users/albin/Development/InteraktionDesign_courses/vendor/autoload.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 115.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ö",
+			".hide",
+			".hide-for",
+			".hide",
+			"2",
+			"300ms",
+			"30m",
+			"ffc800",
+			"ffeda3",
+			"websocket_servers",
+			"nozzle-meter-hack",
+			"cmdControl",
+			"server",
+			"data.server",
+			"input",
+			"btn-connect",
+			"targasliderCanvasFG",
+			"spray",
+			"id=\"spray",
+			"#spray",
+			"#horizontal",
+			"free",
+			"event",
+			"eventTar",
+			"message",
+			"server",
+			"send",
+			"high2",
+			"low2",
+			"high1",
+			"low1",
+			"20",
+			"35",
+			"initializeEvents",
+			"this.modal",
+			"page",
+			"screen",
+			"this.",
+			"section",
+			"127",
+			"10px",
+			"5px",
+			"\">.</",
+			"bajs",
+			"high2",
+			"low2",
+			"high1",
+			"low1",
+			"images",
+			"gradient",
+			"gradien",
+			"a1",
+			"this.GCP",
+			"gcp",
+			"this.lower_angle_bound",
+			"active",
+			"i",
+			"5",
+			"center",
+			"gauge-container",
+			"180",
+			"47 47",
+			"48 48",
+			"10",
+			"300",
+			"320",
+			"162",
+			"165",
+			"151",
+			"background: #000;",
+			"right-turret",
+			"i",
+			"parse",
+			"xradius",
+			"xRadius",
+			"radius",
+			"Radius",
+			"radius",
+			"writeDattr",
+			"350",
+			"400",
+			"R",
+			"r",
+			"i",
+			",",
+			"obj",
+			"99",
+			"100",
+			"m",
+			"2",
+			"45",
+			"20",
+			"a47",
+			"span",
+			"secondary-background",
+			"OpenSans",
+			",",
+			"280",
+			"333",
+			"secondary-background",
+			"btn",
+			"522",
+			"btn-cta",
+			"front-page-jumbotron",
+			"quicklink-object",
+			"fa-2x",
+			"quicklink-icon",
+			"$uid = uniqid('_csnvaka', true);",
+			"Visitor::where('session', '=', $cvuid_val)",
+			"will",
+			"CSS3",
+			"footnote",
+			"JavaScript",
+			"footnote",
+			"JavaScript",
+			"subsec:drawbacks",
+			"tab:userIE",
+			"array",
+			"xcdraw",
+			"subsec:drawbacks",
+			"robot",
+			"table",
+			"ref",
+			"UML",
+			"button",
+			"'",
+			"button",
+			"inproceedings"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/albin/Development/EdwAns/Unifire/PyTARGA/pytarga.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 119,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								119,
+								119
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.arduino-runner":
+	{
+		"height": 110.0
+	},
+	"output.exec":
+	{
+		"height": 279.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.lucy_light_runner":
+	{
+		"height": 110.0
+	},
+	"output.stino_log":
+	{
+		"height": 110.0
+	},
+	"pinned_build_system": "",
+	"project": "PyTarga.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"route",
+				"app/Http/routes.php"
+			],
+			[
+				"app",
+				"bootstrap/app.php"
+			],
+			[
+				".js",
+				"public/js/main.js"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"uni",
+				"app/Http/Controllers/university.php"
+			],
+			[
+				"admi",
+				"tp15/administratorer.php"
+			],
+			[
+				"login",
+				"tp15/login.php"
+			],
+			[
+				"call",
+				"tp15/html_inc/call_me.php"
+			],
+			[
+				"second",
+				"tp15/html_inc/second_menu.php"
+			],
+			[
+				"fron",
+				"tp15/front-page.php"
+			],
+			[
+				"refer",
+				"tp15/referenser.php"
+			],
+			[
+				"header",
+				"tp15/header.php"
+			],
+			[
+				"kontak",
+				"tp15/kontakt-support.php"
+			],
+			[
+				"tp",
+				"tp15/js/tp15.js"
+			],
+			[
+				"tp15",
+				"tp15/js/tp15.js"
+			],
+			[
+				"foo",
+				"tp15/footer.php"
+			],
+			[
+				"footer",
+				"tp15/footer.php"
+			],
+			[
+				".scss",
+				"style/main.scss"
+			],
+			[
+				"lo",
+				"images/entypo/lock-open.svg"
+			],
+			[
+				"front",
+				"front-page.php"
+			],
+			[
+				"admin",
+				"administratorer.php"
+			],
+			[
+				"verk",
+				"verksamhet.php"
+			],
+			[
+				"kontat",
+				"kontakt-support.php"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"vardnads",
+				"vardnadshavare.php"
+			],
+			[
+				"para",
+				"style/params.scss"
+			],
+			[
+				"params",
+				"style/params.css"
+			],
+			[
+				"courses",
+				"resources/views/courses.blade.php"
+			],
+			[
+				"base",
+				"public/js/base.js"
+			],
+			[
+				"compile",
+				"storage/framework/compiled.php"
+			],
+			[
+				"compo",
+				"composer.lock"
+			],
+			[
+				"course",
+				"app/Course.php"
+			],
+			[
+				"",
+				"composer.json"
+			],
+			[
+				"examen",
+				"resources/views/examenform.blade.php"
+			],
+			[
+				"fixrev",
+				"database/migrations/2015_03_06_204942_FixReviewTable.php"
+			],
+			[
+				"review",
+				"app/Review.php"
+			],
+			[
+				"homecontro",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"routes.php",
+				"app/Http/routes.php"
+			],
+			[
+				"base.less",
+				"limesaudio.com/style/less/base.less"
+			],
+			[
+				"base.js",
+				"limesaudio.com/js/base.js"
+			],
+			[
+				"interaf",
+				"app/controllers/InterfaceController.php"
+			],
+			[
+				"master",
+				"app/views/layouts/master.blade.php"
+			],
+			[
+				"filter",
+				"app/filters.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Development/IKSUbot/IKSUbot.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
