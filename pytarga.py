@@ -9,14 +9,13 @@
 
 # Extend System Path
 import sys
-sys.path.append('./pkgs/websocket_client-0.35.0/')
 sys.path.append('./modules/')
 
 # Imports
-import websocket
 from Gamepad import *
 import json
 import base64
+import time
 import requests
 from xml.dom import minidom
 
@@ -38,9 +37,20 @@ def main():
 	# print ws.recv()
 	print base64.b64decode(ws.recv())
 
+	ws.send(base64.b64encode('<?xml version="1.0" encoding="utf-8"?><targa><content type="command"><command action="control" param="take"/></content></targa>'))
+	ws.send(base64.b64encode('<?xml version="1.0" encoding="utf-8"?><targa><destination uuid="8042d29d-6d43-43d4-a51a-3fd0c932f6f4" type="slave"/><content type="set"><map name="activate" value="0"/></content></targa>'))
+	
 	b64 = base64.b64encode('<?xml version="1.0" encoding="utf-8"?><targa><destination uuid="8042d29d-6d43-43d4-a51a-3fd0c932f6f4" type="slave"/><content type="set"><map name="valve" value="1"/></content></targa>')
-
 	ws.send(b64)
+
+	time.sleep(0.15)
+
+	ws.send(base64.b64encode('<?xml version="1.0" encoding="utf-8"?><targa><content type="command"><command action="control" param="take"/></content></targa>'))
+	b64 = base64.b64encode('<?xml version="1.0" encoding="utf-8"?><targa><destination uuid="8042d29d-6d43-43d4-a51a-3fd0c932f6f4" type="slave"/><content type="set"><map name="valve" value="0"/></content></targa>')
+	ws.send(b64)
+
+	# <?xml version="1.0" encoding="utf-8"?><targa><content type="command"><command action="control" param="take"/></content></targa>
+	# <?xml version="1.0" encoding="utf-8"?><targa><destination uuid="8042d29d-6d43-43d4-a51a-3fd0c932f6f4" type="slave"/><content type="set"><map name="activate" value="0"/></content></targa>
 
 	# Fetch UUID
 	r = requests.get('http://'+str(_settings['TARGA']['host'])+'/php/getxml.php?file=targa.configuration.xml')
