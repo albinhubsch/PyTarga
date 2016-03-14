@@ -8,7 +8,6 @@
 # 
 
 import hidapi
-
 hidapi.hid_init()
 
 '''
