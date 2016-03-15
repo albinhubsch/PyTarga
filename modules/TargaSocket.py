@@ -10,6 +10,7 @@
 import websocket
 import requests
 import base64
+from xml.dom import minidom
 
 class TargaSocket(object):
 
@@ -35,6 +36,9 @@ class TargaSocket(object):
 		except Exception, e:
 			raise e
 
+	def sendRaw(self, data_string):
+		self.encode(data_string)
+
 	'''
 		Send data through socket connection
 	'''
@@ -43,6 +47,7 @@ class TargaSocket(object):
 		prepXML = '<?xml version="1.0" encoding="utf-8"?><targa><destination uuid="'+str(self.uuid)+'" type="slave"/><content type="set"><map name="'+str(map_name)+'" value="'+str(map_value)+'"/></content></targa>'
 
 		try:
+			print prepXML
 			self.ws.send(self.encode(prepXML))
 		except Exception, e:
 			raise e
@@ -55,7 +60,8 @@ class TargaSocket(object):
 
 	'''
 	def takeControl(self):
-		self.ws.send('<?xml version="1.0" encoding="utf-8"?><targa><content type="command"><command action="control" param="take"/></content></targa>')
+
+		self.ws.send(self.encode('<?xml version="1.0" encoding="utf-8"?><targa><content type="command"><command action="control" param="take"/></content></targa>'))
 
 	'''
 		Read incoming data on socket connection

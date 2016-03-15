@@ -20,6 +20,8 @@ import time
 import sys
 import base64
 import requests
+import inspect, thread, time
+# import Leap
 from xml.dom import minidom
 
 from Gamepad import *
@@ -39,12 +41,24 @@ def main():
 	# gp1 = Gamepad(_settings['controllers']['gamepads'][0])
 
 	# Open TARGA socket
-	ts = TargaSocket(_settings['TARGA'])
+	# ts = TargaSocket(_settings['TARGA'])
 
-	ts.takeControl()
-	ts.send('valve', '0')
-	time.sleep(0.15)
-	ts.send('valve', '1')
+	# # ts.takeControl()
+	# # ts.send('activate', '1')
+	# # time.sleep(0.2)
+	# # ts.send('activate', '0')
+	# # time.sleep(0.2)
+	# # ts.send('activate', '0')
+
+	# ts.takeControl()
+	# ts.send('horiz', '127')
+	# time.sleep(0.15)
+	# ts.send('vert', '127')
+	# # ts.send('valve', '0')
+
+	# ts.close()
+
+	# controller = Leap.Controller()
 	
 '''
 	Main start
