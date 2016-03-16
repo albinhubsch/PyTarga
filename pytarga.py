@@ -11,6 +11,7 @@
 import sys
 sys.path.append('./modules/')
 sys.path.append('./pkgs/websocket_client-0.35.0/')
+sys.path.insert(0, "./pkgs/LeapSDK")
 
 # Imports
 import hidapi
@@ -20,12 +21,15 @@ import time
 import sys
 import base64
 import requests
-import inspect, thread, time
-# import Leap
+import inspect, thread
+import Leap
 from xml.dom import minidom
+import os
+from Leap import CircleGesture, KeyTapGesture, ScreenTapGesture, SwipeGesture
 
 from Gamepad import *
 from TargaSocket import *
+from LeapListener import *
 
 '''
 	Main function, initiates and runs complete program
@@ -41,7 +45,7 @@ def main():
 	# gp1 = Gamepad(_settings['controllers']['gamepads'][0])
 
 	# Open TARGA socket
-	# ts = TargaSocket(_settings['TARGA'])
+	ts = TargaSocket(_settings['TARGA'])
 
 	# # ts.takeControl()
 	# # ts.send('activate', '1')
@@ -52,13 +56,19 @@ def main():
 
 	# ts.takeControl()
 	# ts.send('horiz', '127')
-	# time.sleep(0.15)
+	# # time.sleep(0.15)
 	# ts.send('vert', '127')
 	# # ts.send('valve', '0')
 
 	# ts.close()
 
-	# controller = Leap.Controller()
+	listener = LeapListener()
+	listener.setSocket(ts)
+	controller = Leap.Controller()
+	controller.add_listener(listener)
+
+	while True:
+		pass
 	
 '''
 	Main start

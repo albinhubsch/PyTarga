@@ -47,7 +47,7 @@ class TargaSocket(object):
 		prepXML = '<?xml version="1.0" encoding="utf-8"?><targa><destination uuid="'+str(self.uuid)+'" type="slave"/><content type="set"><map name="'+str(map_name)+'" value="'+str(map_value)+'"/></content></targa>'
 
 		try:
-			print prepXML
+			# print prepXML
 			self.ws.send(self.encode(prepXML))
 		except Exception, e:
 			raise e
