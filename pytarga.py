@@ -20,6 +20,7 @@ import json
 import time
 import sys
 import base64
+import struct
 import requests
 import inspect, thread
 import Leap
@@ -40,12 +41,26 @@ def main():
 	with open('_settings.json') as data_file:
 		_settings = json.load(data_file)
 
+	for dev in hidapi.hid_enumerate():
+		print '------------------------------------------------------------'
+		print dev.description()
+
 	# Create Gamepad
 	# Right now only supports one!
-	# gp1 = Gamepad(_settings['controllers']['gamepads'][0])
+	gp1 = Gamepad(_settings['controllers']['gamepads'][1])
+
+	while True:
+		b = gp1.read()
+		s = ""
+		for x in b:
+			s = s + str(x) + ' '
+
+		print s
+
+		time.sleep(0.03)
 
 	# Open TARGA socket
-	ts = TargaSocket(_settings['TARGA'])
+	# ts = TargaSocket(_settings['TARGA'])
 
 	# # ts.takeControl()
 	# # ts.send('activate', '1')
@@ -62,13 +77,13 @@ def main():
 
 	# ts.close()
 
-	listener = LeapListener()
-	listener.setSocket(ts)
-	controller = Leap.Controller()
-	controller.add_listener(listener)
+	# listener = LeapListener()
+	# listener.setSocket(ts)
+	# controller = Leap.Controller()
+	# controller.add_listener(listener)
 
-	while True:
-		pass
+	# while True:
+	# 	pass
 	
 '''
 	Main start

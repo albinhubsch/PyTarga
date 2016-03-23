@@ -15,6 +15,12 @@
 				"vendor_id": "121",
 				"product_id": "6",
 				"serial_number":"None"
+			},
+			{
+				"name": "PS3Controller",
+				"vendor_id": "1356",
+				"product_id": "616",
+				"serial_number": ""
 			}
 		],
 

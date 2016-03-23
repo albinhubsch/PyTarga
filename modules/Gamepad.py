@@ -36,5 +36,5 @@ class Gamepad(object):
 		read
 	'''
 	def read(self):
-		return hidapi.hid_read(self.HID, 8)
+		return hidapi.hid_read(self.HID, 12)
 		

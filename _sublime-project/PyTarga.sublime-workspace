@@ -4,6 +4,50 @@
 		"selected_items":
 		[
 			[
+				"re",
+				"reVert"
+			],
+			[
+				"Leap",
+				"LeapListener"
+			],
+			[
+				"data",
+				"data_string"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"get",
+				"getIdentity"
+			],
+			[
+				"targa",
+				"targa_settings"
+			],
+			[
+				"tarag",
+				"targa_settings"
+			],
+			[
+				"pro",
+				"product_id"
+			],
+			[
+				"produc",
+				"product_id	(_settings.json)"
+			],
+			[
+				"vendor",
+				"vendor_id	(_settings.json)"
+			],
+			[
+				"game",
+				"gamepad_obj"
+			],
+			[
 				"text",
 				"text-decoration"
 			],
@@ -42,10 +86,6 @@
 			[
 				"deg",
 				"deg_high"
-			],
-			[
-				"get",
-				"getElementById"
 			],
 			[
 				"button",
@@ -320,10 +360,6 @@
 				"inline-block"
 			],
 			[
-				"re",
-				"request"
-			],
-			[
 				"year",
 				"yearNow"
 			],
@@ -478,42 +514,6 @@
 			[
 				"disla",
 				"display"
-			],
-			[
-				"transition",
-				"transition_delay	(functions.scss)"
-			],
-			[
-				"hide",
-				"hidden"
-			],
-			[
-				"json",
-				"jsonArr"
-			],
-			[
-				"mailto",
-				"mailto:support@tempusinfo"
-			],
-			[
-				"fill",
-				"fillMap"
-			],
-			[
-				"refere",
-				"referens_map	(tp15.js)"
-			],
-			[
-				"tex",
-				"text"
-			],
-			[
-				"amin",
-				"administratorer	(front-page.php)"
-			],
-			[
-				"white",
-				"whitebox"
 			]
 		]
 	},
@@ -523,7 +523,39 @@
 			"file": "/Users/albin/Development/EdwAns/Unifire/PyTARGA/pytarga.py",
 			"settings":
 			{
-				"buffer_size": 119,
+				"buffer_size": 1720,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/albin/Development/EdwAns/Unifire/PyTARGA/modules/LeapListener.py",
+			"settings":
+			{
+				"buffer_size": 1047,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/albin/Development/EdwAns/Unifire/PyTARGA/modules/TargaSocket.py",
+			"settings":
+			{
+				"buffer_size": 2421,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/albin/Development/EdwAns/Unifire/PyTARGA/modules/Gamepad.py",
+			"settings":
+			{
+				"buffer_size": 670,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/albin/Development/EdwAns/Unifire/PyTARGA/_settings.json",
+			"settings":
+			{
+				"buffer_size": 356,
 				"line_ending": "Unix"
 			}
 		}
@@ -552,16 +584,20 @@
 	"command_palette":
 	{
 		"height": 241.0,
-		"last_filter": "set html",
+		"last_filter": "tabs",
 		"selected_items":
 		[
 			[
-				"set html",
-				"Set Syntax: HTML"
-			],
-			[
 				"tabs",
 				"Indentation: Convert to Tabs"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
 			],
 			[
 				"lis",
@@ -574,10 +610,6 @@
 			[
 				"convert",
 				"Indentation: Convert to Tabs"
-			],
-			[
-				"ins",
-				"Package Control: Install Package"
 			],
 			[
 				"rename",
@@ -786,12 +818,18 @@
 	"expanded_folders":
 	[
 		"/Users/albin/Development/EdwAns/Unifire/PyTARGA",
-		"/Users/albin/Development/EdwAns/Unifire/PyTARGA/_sublime-project"
+		"/Users/albin/Development/EdwAns/Unifire/PyTARGA/_sublime-project",
+		"/Users/albin/Development/EdwAns/Unifire/PyTARGA/modules",
+		"/Users/albin/Development/EdwAns/Unifire/PyTARGA/pkgs",
+		"/Users/albin/Development/EdwAns/Unifire/PyTARGA/pkgs/LeapSDK"
 	],
 	"file_history":
 	[
-		"/Users/albin/Development/EdwAns/Unifire/PyTARGA/Sublime-Project/PyTarga.sublime-project",
+		"/Users/albin/Development/EdwAns/Unifire/PyTARGA/modules/LeapSample.py",
+		"/Users/albin/Development/EdwAns/Unifire/PyTARGA/.gitignore",
+		"/Users/albin/Development/EdwAns/Unifire/PyTARGA/modules/.gitignore",
 		"/Users/albin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/albin/Development/EdwAns/Unifire/PyTARGA/Sublime-Project/PyTarga.sublime-project",
 		"/Users/albin/Dropbox/Arbete/Sjölivet/websida/wordpress/wp-content/themes/ocean_v1_AlbinHubsch/style/sass/foundation.scss",
 		"/Users/albin/Dropbox/Arbete/Tempus/Tempus Website/wp-build/wp-content/themes/tp15/index.php",
 		"/Users/albin/Dropbox/Arbete/Sjölivet/websida/wordpress/wp-content/themes/ocean_v1_AlbinHubsch/enkel-sida.php",
@@ -914,14 +952,11 @@
 		"/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/Headers/vDSP_translate.h",
 		"/Users/albin/Development/Digital-Vision-Project/Python-Engine/BroadcastEnvironment.py",
 		"/Users/albin/Documents/index.html",
-		"/Users/albin/Development/Digital-Vision-Project/Python-Engine/main.py",
-		"/Users/albin/Development/InteraktionDesign_courses/resources/views/app.blade.php",
-		"/Users/albin/Development/InteraktionDesign_courses/public/css/overlay/coursesOverview.less",
-		"/Users/albin/Development/InteraktionDesign_courses/vendor/autoload.php"
+		"/Users/albin/Development/Digital-Vision-Project/Python-Engine/main.py"
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -935,6 +970,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"finger.type",
+			"8042d29d-6d43-43d4-a51a-3fd0c932f6f4",
+			"']\n",
 			"ö",
 			".hide",
 			".hide-for",
@@ -1059,10 +1097,7 @@
 			"table",
 			"ref",
 			"UML",
-			"button",
-			"'",
-			"button",
-			"inproceedings"
+			"button"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1089,27 +1124,148 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 119,
+						"buffer_size": 1720,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								119,
-								119
+								1123,
+								1123
 							]
 						],
 						"settings":
 						{
 							"open_with_edit": true,
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 500.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/albin/Development/EdwAns/Unifire/PyTARGA/modules/LeapListener.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1047,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								713,
+								713
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/albin/Development/EdwAns/Unifire/PyTARGA/modules/TargaSocket.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1129,
+								1129
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 547.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/albin/Development/EdwAns/Unifire/PyTARGA/modules/Gamepad.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 670,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								665,
+								665
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 221.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/albin/Development/EdwAns/Unifire/PyTARGA/_settings.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								245,
+								245
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -1152,7 +1308,7 @@
 	},
 	"output.exec":
 	{
-		"height": 279.0
+		"height": 273.0
 	},
 	"output.find_results":
 	{
@@ -1384,7 +1540,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 244.0,
+	"side_bar_width": 283.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
