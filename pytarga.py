@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# 
+#
 # Author: Albin Hubsch - albin.hubsch@gmail.com
 # Website: http://albinhubsch.se
-# 
-# 
+#
+#
 
 # Extend System Path
 import sys
@@ -43,12 +43,13 @@ def main():
 
 	for dev in hidapi.hid_enumerate():
 		print '------------------------------------------------------------'
-		print dev.description()
+		print dev.description()branch
 
 	# Create Gamepad
 	# Right now only supports one!
 	gp1 = Gamepad(_settings['controllers']['gamepads'][1])
 
+	# So to be continued
 	while True:
 		b = gp1.read()
 		s = ""
@@ -84,10 +85,9 @@ def main():
 
 	# while True:
 	# 	pass
-	
+
 '''
 	Main start
 '''
 if __name__ == "__main__":
 	main()
-
