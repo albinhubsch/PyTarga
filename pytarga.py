@@ -43,11 +43,11 @@ def main():
 
 	for dev in hidapi.hid_enumerate():
 		print '------------------------------------------------------------'
-		print dev.description()branch
+		print dev.description()
 
 	# Create Gamepad
 	# Right now only supports one!
-	gp1 = Gamepad(_settings['controllers']['gamepads'][1])
+	gp1 = Gamepad(_settings['controllers']['gamepads'][2])
 
 	# So to be continued
 	while True:
@@ -58,7 +58,7 @@ def main():
 
 		print s
 
-		time.sleep(0.03)
+		time.sleep(0.05)
 
 	# Open TARGA socket
 	# ts = TargaSocket(_settings['TARGA'])

@@ -1,14 +1,14 @@
 {
-	"TARGA": 
+	"TARGA":
 	{
 		"host": "192.168.0.218",
 		"port": "9090"
 	},
-	
+
 	"controllers":
 	{
-		
-		"gamepads": 
+
+		"gamepads":
 		[
 			{
 				"name": "N64USB",
@@ -20,6 +20,12 @@
 				"name": "PS3Controller",
 				"vendor_id": "1356",
 				"product_id": "616",
+				"serial_number": ""
+			},
+			{
+				"name": "TrustGamePad",
+				"vendor_id": "5215",
+				"product_id": "453",
 				"serial_number": ""
 			}
 		],
