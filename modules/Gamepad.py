@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# 
+#
 # Author: Albin Hubsch - albin.hubsch@gmail.com
 # Website: http://albinhubsch.se
-# 
-# 
+#
+#
 
 import hidapi
 hidapi.hid_init()
@@ -33,8 +33,15 @@ class Gamepad(object):
 		return hidapi.hid_open(self.vendor_id, self.product_id)
 
 	'''
-		read
+		read byte stream
 	'''
 	def read(self):
-		return hidapi.hid_read(self.HID, 12)
-		
+		raw_stream = hidapi.hid_read(self.HID, 12)
+		stream_arr = []
+		for b in raw_stream:
+			stream_arr.append(b)
+
+		return stream_arr
+
+	def parse(self):
+		pass

@@ -52,12 +52,7 @@ def main():
 	# So to be continued
 	while True:
 		b = gp1.read()
-		s = ""
-		for x in b:
-			s = s + str(x) + ' '
-
-		print s
-
+		print b
 		time.sleep(0.05)
 
 	# Open TARGA socket
@@ -77,14 +72,6 @@ def main():
 	# # ts.send('valve', '0')
 
 	# ts.close()
-
-	# listener = LeapListener()
-	# listener.setSocket(ts)
-	# controller = Leap.Controller()
-	# controller.add_listener(listener)
-
-	# while True:
-	# 	pass
 
 '''
 	Main start
